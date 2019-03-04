@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fragA</string>
+    <string-array name="mydata">
+        <item name="a">aa</item>
+        <item name="b">bb</item>
+        <item name="c">cc</item>
+        <item name="d">dd</item>
+
+    </string-array>
+
+</resources>

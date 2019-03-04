@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "738668309614",
+    "firebase_url": "https://bloodbasic.firebaseio.com",
+    "project_id": "bloodbasic",
+    "storage_bucket": "bloodbasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738668309614:android:ebd5fdfff27b5815",
+        "android_client_info": {
+          "package_name": "com.studyzone.vishaljha.bloodbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738668309614-8o02hpg5ule3mi77ggkhvaedpar7mvtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studyzone.vishaljha.bloodbasic",
+            "certificate_hash": "8997d6bfe3bb09c2c788862c69341adc25de2926"
+          }
+        },
+        {
+          "client_id": "738668309614-1ai2aehmeutbacjn8g107a79cu4hdr0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsiRTcc6yXDlj9MSUNQqt0WbvbkiGvhlE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738668309614-1ai2aehmeutbacjn8g107a79cu4hdr0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

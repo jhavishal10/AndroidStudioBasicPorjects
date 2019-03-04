@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gramoday Sankalp</string>
+    <string-array name="ChooseYear">
+        <item>2018-2019</item>
+        <item>2015-2016</item>
+        <item>2016-2017</item>
+        <item>2017-2018</item>
+    </string-array>
+    <string-array name="ChooseMonth">
+        <item>February</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+    </string-array>
+</resources>

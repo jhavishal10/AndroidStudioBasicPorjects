@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gx_colorPrimary">#000000</color>
+    <color name="gx_colorPrimaryDark">#000000</color>
+    <color name="gx_colorAccent">#0F844F</color>
+    <color name="gx_colorSecondaryAccent">#FF8900</color>
+    <color name="gx_contentBackground">#252525</color>
+    <color name="gx_title_color">#FFFFFF</color>
+    <color name="pastel_green">#76ae76</color>
+    <color name="pastel_red">#FA5B60</color>
+    <color name="white">#ffffff</color>
+    <color name="grey_white">#FEFEFE</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00ffffff</color>
+</resources>

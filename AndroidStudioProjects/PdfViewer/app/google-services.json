@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1028477909357",
+    "firebase_url": "https://gramodaysankalp-80855.firebaseio.com",
+    "project_id": "gramodaysankalp-80855",
+    "storage_bucket": "gramodaysankalp-80855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028477909357:android:d5be71ea0ff9d1f1",
+        "android_client_info": {
+          "package_name": "com.studyzone.vishaljha.pdfviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028477909357-a5jmm02sct051plmdscpdhna06fuhvfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studyzone.vishaljha.pdfviewer",
+            "certificate_hash": "8997d6bfe3bb09c2c788862c69341adc25de2926"
+          }
+        },
+        {
+          "client_id": "1028477909357-nel605chdq9cuvc5b7u0e6d5qrf5sqrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32Ni3VQmaiuO-i4pMugFPgUc7EZ4K5eM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028477909357-nel605chdq9cuvc5b7u0e6d5qrf5sqrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

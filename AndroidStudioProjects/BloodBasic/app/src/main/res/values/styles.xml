@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/gx_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/gx_colorPrimaryDark</item>
+        <item name="colorAccent">@color/gx_colorAccent</item>
+        <item name="android:windowBackground">@color/gx_colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/gx_colorPrimaryDark</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/gx_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/gx_colorPrimaryDark</item>
+        <item name="colorAccent">@color/gx_colorAccent</item>
+        <item name="android:windowBackground">@color/gx_colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/gx_colorPrimaryDark</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="TransparentText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#00000000</item>
+    </style>
+    <style name="TabStyle" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

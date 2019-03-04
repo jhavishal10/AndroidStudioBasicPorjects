@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Donate Blood</string>
+    <string name="title_activity_donation">Donation</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string-array name="BloodGroup">
+        <item>Select Blood Group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="pincodes">
+        <item>Select Pin Code</item>
+        <item>110001</item>
+        <item>110002</item>
+        <item>110003</item>
+        <item>110004</item>
+        <item>110005</item>
+        <item>110006</item>
+        <item>110007</item>
+        <item>110008</item>
+        <item>110009</item>
+        <item>110010</item>
+        <item>110011</item>
+        <item>110012</item>
+        <item>110013</item>
+        <item>110014</item>
+        <item>110015</item>
+        <item>110016</item>
+        <item>110017</item>
+        <item>110018</item>
+        <item>110019</item>
+        <item>110020</item>
+        <item>110021</item>
+        <item>110022</item>
+        <item>110023</item>
+        <item>110024</item>
+        <item>110025</item>
+        <item>110026</item>
+        <item>110027</item>
+        <item>110028</item>
+        <item>110029</item>
+        <item>110030</item>
+        <item>110031</item>
+        <item>110032</item>
+        <item>110033</item>
+        <item>110034</item>
+        <item>110035</item>
+        <item>110036</item>
+        <item>110037</item>
+        <item>110038</item>
+        <item>110039</item>
+        <item>110040</item>
+        <item>110041</item>
+        <item>110042</item>
+        <item>110043</item>
+        <item>110044</item>
+        <item>110045</item>
+        <item>110046</item>
+        <item>110047</item>
+        <item>110048</item>
+        <item>110049</item>
+        <item>110051</item>
+        <item>110052</item>
+        <item>110053</item>
+        <item>110054</item>
+        <item>110055</item>
+        <item>110056</item>
+        <item>110057</item>
+        <item>110058</item>
+        <item>110059</item>
+        <item>110060</item>
+        <item>110061</item>
+        <item>110062</item>
+        <item>110063</item>
+        <item>110064</item>
+        <item>110065</item>
+        <item>110066</item>
+        <item>110067</item>
+        <item>110068</item>
+        <item>110070</item>
+        <item>110071</item>
+        <item>110073</item>
+        <item>110074</item>
+        <item>110075</item>
+        <item>110076</item>
+        <item>110078</item>
+        <item>110081</item>
+        <item>110082</item>
+        <item>110083</item>
+        <item>110084</item>
+        <item>110085</item>
+        <item>110086</item>
+        <item>110087</item>
+        <item>110088</item>
+        <item>110091</item>
+        <item>110092</item>
+        <item>110093</item>
+        <item>110094</item>
+        <item>110095</item>
+        <item>110096</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
